@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diya</h1>
+<h1 align="center">Hi, I'm Diya</h1>
 <h3 align="center">Engineering Student • Frontend Developer • Problem Solver</h3>
 
 ---
 
-# 🙋‍♀️ About Me
+# About Me
 
 I’m a second-year engineering student who enjoys building clean and practical web applications while improving problem-solving skills through DSA and development.
 
@@ -19,7 +19,7 @@ I prefer learning by building instead of only consuming tutorials.
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 
 ### Languages
@@ -45,9 +45,9 @@ I prefer learning by building instead of only consuming tutorials.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 💼 PlacePrep
+## PlacePrep
 
 Placement preparation dashboard designed to help students organize coding, aptitude, and interview preparation resources.
 
@@ -56,7 +56,7 @@ HTML • CSS • JavaScript • Local Storage • GitHub
 
 ---
 
-## 💇 HerCare
+## HerCare
 
 Haircare recommendation platform focused on personalized routines, product suggestions, and clean UI/UX.
 
@@ -65,7 +65,7 @@ HTML • CSS • JavaScript • Responsive Design
 
 ---
 
-## ✨ GlowNest
+## GlowNest
 
 Beauty and self-care themed web platform focused on aesthetic UI and modern frontend design.
 
@@ -74,7 +74,7 @@ HTML • CSS • JavaScript • Figma • Vercel
 
 ---
 
-## 🌱 Smart Irrigation System
+## Smart Irrigation System
 
 IoT-based irrigation system designed to optimize water usage using automation and sensor-based monitoring.
 
@@ -83,7 +83,7 @@ Arduino • IoT • Sensors • Embedded Systems
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DIYAA0606\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
 
@@ -91,6 +91,6 @@ Arduino • IoT • Sensors • Embedded Systems
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)](https://github.com/DIYAA0606)
